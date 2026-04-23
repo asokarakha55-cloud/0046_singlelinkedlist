@@ -124,4 +124,7 @@ int main()
 
         switch (ch)
         {
+        case '1':
+            mhs.addNode();
+            break;
         }
